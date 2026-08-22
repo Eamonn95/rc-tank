@@ -1,0 +1,6 @@
+# Local Wi-Fi credentials
+**/arduino_secrets.h
+
+# Python
+__pycache__/
+*.pyc
